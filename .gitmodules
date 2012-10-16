@@ -1,0 +1,3 @@
+[submodule "combinepng"]
+	path = combinepng
+	url = git@github.com:im007boy/combinepng.git
